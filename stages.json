@@ -1,0 +1,98 @@
+[
+  {
+    "id": "stage-1",
+    "song": "无尽的冒险",
+    "performers": [
+      "时代少年团"
+    ],
+    "version": "原唱（用户提供）",
+    "event": "时代少年团叁重楼暨出道四周年演唱会「楼外楼」中国澳门站",
+    "session": null,
+    "url": "https://www.bilibili.com/video/BV1oe411f7of",
+    "reference_image": "stage-1-pdf.png",
+    "visual_clues": [
+      "白色服装",
+      "黄色配饰",
+      "多人同台"
+    ],
+    "metadata_source": "用户提供，链接未核验"
+  },
+  {
+    "id": "stage-2",
+    "song": "想把我唱给你听",
+    "performers": [
+      "TF家族四代"
+    ],
+    "version": "Cover",
+    "event": "2026新年音乐会「荣耀」",
+    "session": "DAY2",
+    "url": "https://www.bilibili.com/video/BV1UDkcBxE8X",
+    "reference_image": "stage-2.png",
+    "visual_clues": [
+      "浅色服装",
+      "多人阶梯坐姿",
+      "多把木吉他",
+      "底部歌词字幕"
+    ],
+    "metadata_source": "用户提供，链接未核验"
+  },
+  {
+    "id": "stage-3",
+    "song": "来自天堂的魔鬼",
+    "performers": [
+      "王橹杰（TF家族四代）",
+      "穆祉丞（TFING）"
+    ],
+    "version": "Cover",
+    "event": "2026新年音乐会「荣耀」",
+    "session": "DAY2",
+    "url": "https://www.bilibili.com/video/BV1h1kcBfEuJ",
+    "reference_image": "stage-3.png",
+    "visual_clues": [
+      "双人前后站位",
+      "黑白服装",
+      "蕾丝与亮片",
+      "棋子道具"
+    ],
+    "metadata_source": "用户提供，链接未核验"
+  },
+  {
+    "id": "stage-4",
+    "song": "漂浮群岛",
+    "performers": [
+      "马嘉祺（时代少年团）",
+      "丁程鑫（时代少年团）"
+    ],
+    "version": "Cover",
+    "event": "时代少年团叁重楼暨出道四周年演唱会「楼外楼」中国澳门站",
+    "session": null,
+    "url": "https://www.bilibili.com/video/BV1cQ4y1t7UV",
+    "reference_image": "stage-4.png",
+    "visual_clues": [
+      "双人并排站立",
+      "左白右黑西装",
+      "深色背景"
+    ],
+    "metadata_source": "用户提供，链接未核验"
+  },
+  {
+    "id": "stage-5",
+    "song": "爱在终局之前",
+    "performers": [
+      "张真源（时代少年团）"
+    ],
+    "version": null,
+    "event": "时代少年团叁重楼暨出道四周年演唱会「楼外楼」中国澳门站",
+    "session": null,
+    "url": "https://www.bilibili.com/video/BV1Yj41177az",
+    "reference_image": "stage-5.png",
+    "visual_clues": [
+      "单人弹电吉他",
+      "白色长款服装",
+      "肩部羽毛与闪亮装饰",
+      "立式麦克风",
+      "浅蓝灰背景"
+    ],
+    "metadata_source": "用户提供，链接未核验"
+  }
+]
