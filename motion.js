@@ -6,11 +6,24 @@
  let opened=false,lastFocus=null,hoverTarget=0,hover=0,travel=14,velocity=0,mouse=[-8,-8],smoothMouse=[-8,-8],lastTime=0,running=true;
  const random=(()=>{let seed=7919;return()=>{seed=(seed*1664525+1013904223)>>>0;return seed/4294967296;};})();
  const clamp=(v,a,b)=>Math.min(b,Math.max(a,v));
- function openPanel(hash){if(!opened){lastFocus=document.activeElement;opened=true;document.body.classList.add('finder-open');panel.inert=false;hoverTarget=1;}const id=hash==='#explore-entry'?'collection':hash.slice(1);requestAnimationFrame(()=>{const target=document.getElementById(id);if(target)target.scrollIntoView({behavior:reduced.matches?'instant':'smooth',block:'start'});document.getElementById('close-panel').focus({preventScroll:true});});}
- function closePanel(){opened=false;document.body.classList.remove('finder-open');panel.inert=true;hoverTarget=0;if(lastFocus?.isConnected)lastFocus.focus({preventScroll:true});}
+ const menuButton=document.getElementById('menu-toggle');
+ function closeMenu(){document.body.classList.remove('menu-open');menuButton.setAttribute('aria-expanded','false');menuButton.setAttribute('aria-label','展开导航菜单');}
+ menuButton.addEventListener('click',()=>{const on=document.body.classList.toggle('menu-open');menuButton.setAttribute('aria-expanded',String(on));menuButton.setAttribute('aria-label',on?'收起导航菜单':'展开导航菜单');});
+ function openPanel(hash){
+  closeMenu();
+  const allowed=['find','collection','profiles','announcements','about','login'];const requested=hash.slice(1),id=allowed.includes(requested)?requested:'find';
+  if(!opened){lastFocus=document.activeElement;opened=true;document.body.classList.add('finder-open');panel.inert=false;hoverTarget=1;}
+  panel.dataset.route=id;
+  document.querySelectorAll('[data-route-page]').forEach(el=>{el.hidden=!el.dataset.routePage.split(' ').includes(id);});
+  document.querySelectorAll('.site-nav a[href^="#"]').forEach(a=>{if(a.getAttribute('href')==='#'+id)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current');});
+  requestAnimationFrame(()=>{panel.scrollTo({top:0,behavior:'instant'});const heading=document.getElementById(id)?.querySelector('h2');if(heading){heading.setAttribute('tabindex','-1');heading.focus({preventScroll:true});}});
+ }
+ function closePanel(){closeMenu();opened=false;document.body.classList.remove('finder-open');panel.inert=true;hoverTarget=0;document.querySelectorAll('.site-nav a[aria-current]').forEach(a=>a.removeAttribute('aria-current'));if(lastFocus?.isConnected)lastFocus.focus({preventScroll:true});}
  document.querySelectorAll('a[href^="#"]').forEach(a=>a.addEventListener('click',e=>{const hash=a.getAttribute('href');e.preventDefault();if(hash==='#top')closePanel();else openPanel(hash);}));
- document.getElementById('close-panel').addEventListener('click',closePanel);
- document.addEventListener('keydown',e=>{if(e.key==='Escape'&&opened){closePanel();return;}if(opened&&e.key==='Tab'){const controls=[...document.querySelectorAll('.site-nav a,.app-panel a,.app-panel button,.app-panel textarea,.app-panel [tabindex]')].filter(el=>!el.disabled&&el.getClientRects().length);const first=controls[0],last=controls[controls.length-1];if(e.shiftKey&&document.activeElement===first){e.preventDefault();last.focus();}else if(!e.shiftKey&&document.activeElement===last){e.preventDefault();first.focus();}}});
+ document.addEventListener('shelf:navigate',e=>openPanel(e.detail));
+ document.addEventListener('pointerdown',e=>{if(document.body.classList.contains('menu-open')&&!e.target.closest('.nav-actions'))closeMenu();});
+ addEventListener('resize',()=>{if(innerWidth>820)closeMenu();},{passive:true});
+ document.addEventListener('keydown',e=>{if(e.key==='Escape'&&document.body.classList.contains('menu-open')){closeMenu();menuButton.focus();return;}if(e.key==='Escape'&&opened){closePanel();return;}if(opened&&e.key==='Tab'){const controls=[...document.querySelectorAll('.site-nav a,.site-nav button,.app-panel a,.app-panel button,.app-panel textarea,.app-panel [tabindex]')].filter(el=>!el.disabled&&el.getClientRects().length);const first=controls[0],last=controls[controls.length-1];if(e.shiftKey&&document.activeElement===first){e.preventDefault();last.focus();}else if(!e.shiftKey&&document.activeElement===last){e.preventDefault();first.focus();}}});
  go.addEventListener('pointerenter',()=>{hoverTarget=1;});go.addEventListener('pointerleave',()=>{if(!opened)hoverTarget=0;});go.addEventListener('focus',()=>{hoverTarget=1;});go.addEventListener('blur',()=>{if(!opened)hoverTarget=0;});
  addEventListener('pointermove',e=>{if(opened)return;mouse=[e.clientX/innerWidth*2-1,1-e.clientY/innerHeight*2];},{passive:true});document.addEventListener('pointerleave',()=>{mouse=[-8,-8];});
  addEventListener('wheel',e=>{if(opened||e.ctrlKey||reduced.matches)return;velocity+=clamp(e.deltaY*(e.deltaMode===1?32:1)*.0015,-.9,.9);},{passive:true});
