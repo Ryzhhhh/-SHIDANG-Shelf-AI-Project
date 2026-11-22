@@ -1,0 +1,852 @@
+[
+  {
+    "stage_id": "stage-1",
+    "video_url": "https://www.bilibili.com/video/BV1oe411f7of",
+    "thumbnail_url": "https://i1.hdslb.com/bfs/archive/18e519ba5a96a4b87ed3bf913bd9981521dbef60.jpg",
+    "local_file": "assets/stage-covers/stage-1.jpg",
+    "publisher": "TF家族",
+    "original_title": "【时代少年团】「时代少年团叁重楼暨出道四周年演唱会楼外楼中国澳门站」《无尽的冒险》纯享版",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-2",
+    "video_url": "https://www.bilibili.com/video/BV1UDkcBxE8X",
+    "thumbnail_url": "https://i0.hdslb.com/bfs/archive/8a1a9c7d0562e0981b038cec0b01a337d1ff64e2.jpg",
+    "local_file": "assets/stage-covers/stage-2.jpg",
+    "publisher": "TF家族",
+    "original_title": "【TF家族练习生】2026新年音乐会「荣耀」:《想把我唱给你听》纯享版（DAY2）",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-3",
+    "video_url": "https://www.bilibili.com/video/BV1h1kcBfEuJ",
+    "thumbnail_url": "https://i1.hdslb.com/bfs/archive/f78c476fc7ef974f04ebea6ceb49d6f58ee3f520.jpg",
+    "local_file": "assets/stage-covers/stage-3.jpg",
+    "publisher": "TF家族",
+    "original_title": "【TF家族】2026新年音乐会「荣耀」:《来自天堂的魔鬼》纯享版（DAY2）",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-4",
+    "video_url": "https://www.bilibili.com/video/BV1cQ4y1t7UV",
+    "thumbnail_url": "https://i2.hdslb.com/bfs/archive/875ab3eb7eb0afc2ef7a5ab89b1b4a16ee7626d1.jpg",
+    "local_file": "assets/stage-covers/stage-4.jpg",
+    "publisher": "TF家族",
+    "original_title": "【时代少年团】「时代少年团叁重楼暨出道四周年演唱会楼外楼中国澳门站」《漂浮群岛》纯享版",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-5",
+    "video_url": "https://www.bilibili.com/video/BV1Yj41177az",
+    "thumbnail_url": "https://i0.hdslb.com/bfs/archive/5fd56359e1d292715d9c649b3e6a361916ca2b1c.jpg",
+    "local_file": "assets/stage-covers/stage-5.jpg",
+    "publisher": "TF家族",
+    "original_title": "【时代少年团】「时代少年团叁重楼暨出道四周年演唱会楼外楼中国澳门站」《爱在终局之前》纯享版",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-6",
+    "video_url": "https://www.bilibili.com/video/BV1TN411M7qZ/",
+    "thumbnail_url": "https://i1.hdslb.com/bfs/archive/83ed93eea82dc59106ba9eb3df22c61a409fdb1c.jpg",
+    "local_file": "assets/stage-covers/stage-6.jpg",
+    "publisher": "TF家族",
+    "original_title": "【时代少年团】「时代少年团叁重楼暨出道四周年演唱会楼外楼中国澳门站」《大时代》纯享版",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-7",
+    "video_url": "https://www.bilibili.com/video/BV17c411r7ad/",
+    "thumbnail_url": "https://i2.hdslb.com/bfs/archive/0eba971be0610b52b1afb7e5e0b21c8af53600a2.jpg",
+    "local_file": "assets/stage-covers/stage-7.jpg",
+    "publisher": "TF家族",
+    "original_title": "【时代少年团】「时代少年团叁重楼暨出道四周年演唱会楼外楼中国澳门站」《不枉》纯享版",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-8",
+    "video_url": "https://www.bilibili.com/video/BV1NDFQzgECc/",
+    "thumbnail_url": "https://i0.hdslb.com/bfs/archive/accc644394943df3e12025add4b286debbb687ef.jpg",
+    "local_file": "assets/stage-covers/stage-8.jpg",
+    "publisher": "登陆少年组合",
+    "original_title": "【登陆少年】荣耀之战演唱会：《Still Alive(背水一战)》纯享版（DAY2）",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-9",
+    "video_url": "https://www.bilibili.com/video/BV1uaFszBErc/",
+    "thumbnail_url": "https://i2.hdslb.com/bfs/archive/e2bf7704cda603f826146a4255f5086eee2b1028.jpg",
+    "local_file": "assets/stage-covers/stage-9.jpg",
+    "publisher": "登陆少年组合",
+    "original_title": "【登陆少年】荣耀之战演唱会：《Blow》纯享版（DAY1）",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-10",
+    "video_url": "https://www.bilibili.com/video/BV1gqkKB6Evd/",
+    "thumbnail_url": "https://i0.hdslb.com/bfs/archive/8b9f8cd44a2c1562dd8f2c7600b7573621a5718d.jpg",
+    "local_file": "assets/stage-covers/stage-10.jpg",
+    "publisher": "TF_ING",
+    "original_title": "【TF_ING】2026新年音乐会「荣耀」：《起风的夏天》纯享版（DAY2）",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-11",
+    "video_url": "https://www.bilibili.com/video/BV1YMrkBGE51/",
+    "thumbnail_url": "https://i0.hdslb.com/bfs/archive/9d4f63e2d84ce94196d862b908f57d17aa0bb0e3.jpg",
+    "local_file": "assets/stage-covers/stage-11.jpg",
+    "publisher": "TF_ING",
+    "original_title": "【TF_ING】2026新年音乐会「荣耀」：《What Do You Mean？》纯享版（DAY2）",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-12",
+    "video_url": "https://www.bilibili.com/video/BV1tYkwBoEwu/",
+    "thumbnail_url": "https://i0.hdslb.com/bfs/archive/6c19e74ae62274d7d3e67fbf88a35c637e591812.jpg",
+    "local_file": "assets/stage-covers/stage-12.jpg",
+    "publisher": "TF家族",
+    "original_title": "【TF家族练习生】2026新年音乐会「荣耀」:《心动》纯享版（DAY2）",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-13",
+    "video_url": "https://www.bilibili.com/video/BV1BFhdzUEjY/",
+    "thumbnail_url": "https://i2.hdslb.com/bfs/archive/407c83c71ca524942e5d0ecccb49785494ec03a7.jpg",
+    "local_file": "assets/stage-covers/stage-13.jpg",
+    "publisher": "TF家族",
+    "original_title": "【TF家族练习生】「肆意少年」见面会:《你要的爱》纯享版（青岛场DAY2）",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-14",
+    "video_url": "https://www.youtube.com/watch?v=RU3JCW3cAMk",
+    "thumbnail_url": "https://i.ytimg.com/vi/RU3JCW3cAMk/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-14.jpg",
+    "publisher": "Mnet K-POP",
+    "original_title": "'최초 공개/4K' 세븐틴 (SEVENTEEN) - 손오공 #엠카운트다운 EP.794 | Mnet 230427 방송",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-15",
+    "video_url": "https://www.youtube.com/watch?v=Wr0RQWq58jM",
+    "thumbnail_url": "https://i.ytimg.com/vi/Wr0RQWq58jM/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-15.jpg",
+    "publisher": "SEVENTEEN",
+    "original_title": "SEVENTEEN(세븐틴) - '247' (PERFORMANCE TEAM) @ SHOWCASE",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-16",
+    "video_url": "https://www.youtube.com/watch?v=2H7Sm3u6zXw",
+    "thumbnail_url": "https://i.ytimg.com/vi/2H7Sm3u6zXw/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-16.jpg",
+    "publisher": "Mnet K-POP",
+    "original_title": "'HOT DEBUT' TWS (투어스) - 첫 만남은 계획대로 되지 않아 #엠카운트다운 EP.826 | Mnet 240125 방송",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-17",
+    "video_url": "https://www.youtube.com/watch?v=lB_WCmP3w5Q",
+    "thumbnail_url": "https://i.ytimg.com/vi/lB_WCmP3w5Q/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-17.jpg",
+    "publisher": "M2",
+    "original_title": "TWS(투어스) - hey! hey! (4K) | TWS COMEBACK SHOW | Mnet 240624 방송",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-18",
+    "video_url": "https://www.bilibili.com/video/BV17N411M7qC/",
+    "thumbnail_url": "https://i1.hdslb.com/bfs/archive/e680541080a2ebd8d0ee22ebe8c1f24e6128f193.jpg",
+    "local_file": "assets/stage-covers/stage-18.jpg",
+    "publisher": "TF家族",
+    "original_title": "【时代少年团】「时代少年团叁重楼暨出道四周年演唱会楼外楼中国澳门站」《要你管》纯享版",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-19",
+    "video_url": "https://www.bilibili.com/video/BV19C4y1P7hS/",
+    "thumbnail_url": "https://i1.hdslb.com/bfs/archive/d6dc8a391f2ea45ef10c0204067cc98aafeb37f8.jpg",
+    "local_file": "assets/stage-covers/stage-19.jpg",
+    "publisher": "TF家族",
+    "original_title": "【时代少年团】「时代少年团叁重楼暨出道四周年演唱会楼外楼中国澳门站」《私奔》纯享版",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-20",
+    "video_url": "https://www.bilibili.com/video/BV1du4y1w7py/",
+    "thumbnail_url": "https://i2.hdslb.com/bfs/archive/49b61d35118a963eb64afa37c2e7170f23437a99.jpg",
+    "local_file": "assets/stage-covers/stage-20.jpg",
+    "publisher": "TF家族",
+    "original_title": "【时代少年团】「时代少年团叁重楼暨出道四周年演唱会楼外楼中国澳门站」《哈哈哈》纯享版",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-21",
+    "video_url": "https://www.bilibili.com/video/BV1RC4y1P7px/",
+    "thumbnail_url": "https://i2.hdslb.com/bfs/archive/926b80e5aeed858072086b2bddc9ea59df818879.jpg",
+    "local_file": "assets/stage-covers/stage-21.jpg",
+    "publisher": "TF家族",
+    "original_title": "【时代少年团】「时代少年团叁重楼暨出道四周年演唱会楼外楼中国澳门站」《新物种》纯享版",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-22",
+    "video_url": "https://www.bilibili.com/video/BV1oH4y127nr/",
+    "thumbnail_url": "https://i2.hdslb.com/bfs/archive/6ef48bdf5c028119c4466ca84e6c1694e758925e.jpg",
+    "local_file": "assets/stage-covers/stage-22.jpg",
+    "publisher": "TF家族",
+    "original_title": "【时代少年团】「时代少年团叁重楼暨出道四周年演唱会楼外楼中国澳门站」《Feel me》纯享版",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-23",
+    "video_url": "https://www.bilibili.com/video/BV1sw411P7xx/",
+    "thumbnail_url": "https://i1.hdslb.com/bfs/archive/b595d8ff8b829278f25a218c0931251255902e10.jpg",
+    "local_file": "assets/stage-covers/stage-23.jpg",
+    "publisher": "TF家族",
+    "original_title": "【时代少年团】「时代少年团叁重楼暨出道四周年演唱会楼外楼中国澳门站」《狼》纯享版",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-24",
+    "video_url": "https://www.bilibili.com/video/BV1iN4y1173L/",
+    "thumbnail_url": "https://i2.hdslb.com/bfs/archive/46c622aa550da24b2d88dfe1fd11fb91919cbb34.jpg",
+    "local_file": "assets/stage-covers/stage-24.jpg",
+    "publisher": "TF家族",
+    "original_title": "【时代少年团】「时代少年团叁重楼暨出道四周年演唱会楼外楼中国澳门站」《爆米花》纯享版",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-25",
+    "video_url": "https://www.bilibili.com/video/BV1fj411778p/",
+    "thumbnail_url": "https://i1.hdslb.com/bfs/archive/d0f8cc240a42dc9a652da1b670984b6c08553da2.jpg",
+    "local_file": "assets/stage-covers/stage-25.jpg",
+    "publisher": "TF家族",
+    "original_title": "【时代少年团】「时代少年团叁重楼暨出道四周年演唱会楼外楼中国澳门站」《相遇》纯享版",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-26",
+    "video_url": "https://www.bilibili.com/video/BV1u2FHzhEbm/",
+    "thumbnail_url": "https://i0.hdslb.com/bfs/archive/705e2ebe3c3299c2aea89c9f9fd589e719fc9331.jpg",
+    "local_file": "assets/stage-covers/stage-26.jpg",
+    "publisher": "登陆少年组合",
+    "original_title": "【登陆少年】荣耀之战演唱会：《爱丫爱丫》纯享版（DAY1）",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-27",
+    "video_url": "https://www.bilibili.com/video/BV1h1FHzwEiQ/",
+    "thumbnail_url": "https://i2.hdslb.com/bfs/archive/288a7429efcf5fc86f820234a08bdbccca5aafe6.jpg",
+    "local_file": "assets/stage-covers/stage-27.jpg",
+    "publisher": "登陆少年组合",
+    "original_title": "【登陆少年】荣耀之战演唱会：《死了都要爱》纯享版（DAY1）",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-28",
+    "video_url": "https://www.bilibili.com/video/BV131FHzwELT/",
+    "thumbnail_url": "https://i2.hdslb.com/bfs/archive/8ff0ca8968ea88d993c0bc9286f345d89f2e73d9.jpg",
+    "local_file": "assets/stage-covers/stage-28.jpg",
+    "publisher": "登陆少年组合",
+    "original_title": "【登陆少年】荣耀之战演唱会：《Bad Romance》纯享版（DAY1）",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-29",
+    "video_url": "https://www.bilibili.com/video/BV1DhFszMEb9/",
+    "thumbnail_url": "https://i1.hdslb.com/bfs/archive/791db8ee7f7cb6d8a2566ab7304ecdedb370bd28.jpg",
+    "local_file": "assets/stage-covers/stage-29.jpg",
+    "publisher": "登陆少年组合",
+    "original_title": "【登陆少年】荣耀之战演唱会：《朝天门》纯享版（DAY1）",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-30",
+    "video_url": "https://www.bilibili.com/video/BV1uvFsziEFc/",
+    "thumbnail_url": "https://i2.hdslb.com/bfs/archive/21765935f550d1179cda4360b9661745e816832a.jpg",
+    "local_file": "assets/stage-covers/stage-30.jpg",
+    "publisher": "登陆少年组合",
+    "original_title": "【登陆少年】荣耀之战演唱会：《就是现在》纯享版（DAY1）",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-31",
+    "video_url": "https://www.bilibili.com/video/BV1PQFQzzEfU/",
+    "thumbnail_url": "https://i2.hdslb.com/bfs/archive/afde35cb112e34707dc1efbfaebdf8b0d455f477.jpg",
+    "local_file": "assets/stage-covers/stage-31.jpg",
+    "publisher": "登陆少年组合",
+    "original_title": "【登陆少年】荣耀之战演唱会：《暗香》纯享版（DAY2）",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-32",
+    "video_url": "https://www.bilibili.com/video/BV1xDFQzgE58/",
+    "thumbnail_url": "https://i2.hdslb.com/bfs/archive/9ec1d4947c102c65636c6facf771fc6c309c483b.jpg",
+    "local_file": "assets/stage-covers/stage-32.jpg",
+    "publisher": "登陆少年组合",
+    "original_title": "【登陆少年】荣耀之战演唱会：《决》纯享版（DAY2）",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-33",
+    "video_url": "https://www.bilibili.com/video/BV1HEFQzwEcy/",
+    "thumbnail_url": "https://i0.hdslb.com/bfs/archive/72450d85a27d08cf32d24eef501d900f9a3a3e8f.jpg",
+    "local_file": "assets/stage-covers/stage-33.jpg",
+    "publisher": "登陆少年组合",
+    "original_title": "【登陆少年】荣耀之战演唱会：《If I Ain't Got You》纯享版（DAY2）",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-34",
+    "video_url": "https://www.bilibili.com/video/BV1oHcYzgEXD/",
+    "thumbnail_url": "https://i0.hdslb.com/bfs/archive/fc9def0b6e69a00144b98d80891ff879b01e47b9.jpg",
+    "local_file": "assets/stage-covers/stage-34.jpg",
+    "publisher": "TF_ING",
+    "original_title": "【ChampionLang】荣耀之战演唱会：《予你》纯享版（DAY2）",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-35",
+    "video_url": "https://www.bilibili.com/video/BV1EjFszUEwm/",
+    "thumbnail_url": "https://i2.hdslb.com/bfs/archive/7e1bfd9040161e4cbbeb572a3ddd7fb1c7d3b444.jpg",
+    "local_file": "assets/stage-covers/stage-35.jpg",
+    "publisher": "TF_ING",
+    "original_title": "【ChampionLang】荣耀之战演唱会：《表白》纯享版（DAY1）",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-36",
+    "video_url": "https://www.bilibili.com/video/BV1jHFszLEYw/",
+    "thumbnail_url": "https://i0.hdslb.com/bfs/archive/770754f39860b77fc891cd776a9842b8969b700e.jpg",
+    "local_file": "assets/stage-covers/stage-36.jpg",
+    "publisher": "TF_ING",
+    "original_title": "【ChampionLang】荣耀之战演唱会：《爱的回归线》纯享版（DAY1）",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-37",
+    "video_url": "https://www.bilibili.com/video/BV1V2FWzuEaH/",
+    "thumbnail_url": "https://i2.hdslb.com/bfs/archive/7d0b1ee656d437a6ed9c68a2cd85326be8cd575d.jpg",
+    "local_file": "assets/stage-covers/stage-37.jpg",
+    "publisher": "TF_ING",
+    "original_title": "【ChampionLang】荣耀之战演唱会：《玩世不恭》纯享版（DAY1）",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-38",
+    "video_url": "https://www.bilibili.com/video/BV1eCFWz3ESt/",
+    "thumbnail_url": "https://i1.hdslb.com/bfs/archive/cd498177aeda0668f33aed66b571305e0f3f1a8a.jpg",
+    "local_file": "assets/stage-covers/stage-38.jpg",
+    "publisher": "TF_ING",
+    "original_title": "【ChampionLang】荣耀之战演唱会：《Because of you》纯享版（DAY1）",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-39",
+    "video_url": "https://www.bilibili.com/video/BV1L6FWzVES8/",
+    "thumbnail_url": "https://i2.hdslb.com/bfs/archive/45eebf616acd3bac6c417783cd6b1166ba5af85e.jpg",
+    "local_file": "assets/stage-covers/stage-39.jpg",
+    "publisher": "TF_ING",
+    "original_title": "【ChampionLang】荣耀之战演唱会：《Everybody》纯享版（DAY1）",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-40",
+    "video_url": "https://www.bilibili.com/video/BV1vRFnzKE9Y/",
+    "thumbnail_url": "https://i1.hdslb.com/bfs/archive/2655be340e6f27189b24d5eae2a2cf47bd7f07b5.jpg",
+    "local_file": "assets/stage-covers/stage-40.jpg",
+    "publisher": "TF家族",
+    "original_title": "【TF家族练习生】荣耀之战演唱会:《希区考克作品152》纯享版（DAY1）",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-41",
+    "video_url": "https://www.bilibili.com/video/BV1W5FJzyEa6/",
+    "thumbnail_url": "https://i0.hdslb.com/bfs/archive/81d6ec65e33eb7414acde6145a55b45b8e7094fe.jpg",
+    "local_file": "assets/stage-covers/stage-41.jpg",
+    "publisher": "TF家族",
+    "original_title": "【TF家族练习生】荣耀之战演唱会:《竹林深处》纯享版（DAY1）",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-42",
+    "video_url": "https://www.bilibili.com/video/BV1WVFJzLEhG/",
+    "thumbnail_url": "https://i0.hdslb.com/bfs/archive/b4a21f0450d67a63225e34ef64d5562f280e1d4a.jpg",
+    "local_file": "assets/stage-covers/stage-42.jpg",
+    "publisher": "TF家族",
+    "original_title": "【TF家族练习生】荣耀之战演唱会:《Lovely》纯享版（DAY1）",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-43",
+    "video_url": "https://www.bilibili.com/video/BV1JWFJzBEEx/",
+    "thumbnail_url": "https://i1.hdslb.com/bfs/archive/66c64a3fca826c90cff17795d51091ec685e494c.jpg",
+    "local_file": "assets/stage-covers/stage-43.jpg",
+    "publisher": "TF家族",
+    "original_title": "【TF家族练习生】荣耀之战演唱会:《最佳菜鸟》纯享版（DAY1）",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-44",
+    "video_url": "https://www.bilibili.com/video/BV17xFJzTEaY/",
+    "thumbnail_url": "https://i2.hdslb.com/bfs/archive/289f6a71a55a07d4ed16dfef7efb25788f34df95.jpg",
+    "local_file": "assets/stage-covers/stage-44.jpg",
+    "publisher": "TF家族",
+    "original_title": "【TF家族练习生】荣耀之战演唱会:《我是一只鱼》纯享版（DAY1）",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-45",
+    "video_url": "https://www.bilibili.com/video/BV1SUFyztEzF/",
+    "thumbnail_url": "https://i0.hdslb.com/bfs/archive/72957d973c3057d38df7d8a40e8cdebfac6a5de8.jpg",
+    "local_file": "assets/stage-covers/stage-45.jpg",
+    "publisher": "TF家族",
+    "original_title": "【TF家族练习生】荣耀之战演唱会:《极恶都市》纯享版（DAY2）",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-46",
+    "video_url": "https://www.bilibili.com/video/BV1vRFnzKE9s/",
+    "thumbnail_url": "https://i1.hdslb.com/bfs/archive/1c145d062637739d28a21ce2b14e1045cda9bd63.jpg",
+    "local_file": "assets/stage-covers/stage-46.jpg",
+    "publisher": "TF家族",
+    "original_title": "【TF家族练习生】荣耀之战演唱会:《借过一下》纯享版（DAY1）",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-47",
+    "video_url": "https://www.bilibili.com/video/BV1CNFmzsEjH/",
+    "thumbnail_url": "https://i2.hdslb.com/bfs/archive/9f98caf579e9130694946d5e01583f7682d8b9f3.jpg",
+    "local_file": "assets/stage-covers/stage-47.jpg",
+    "publisher": "TF家族",
+    "original_title": "【TF家族练习生】荣耀之战演唱会:《第二类我》纯享版（DAY2）",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-48",
+    "video_url": "https://www.youtube.com/watch?v=5RBaAErG6aw",
+    "thumbnail_url": "https://i.ytimg.com/vi/5RBaAErG6aw/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-48.jpg",
+    "publisher": "Mnet K-POP",
+    "original_title": "'최초 공개/4K' 세븐틴 (SEVENTEEN) - MAESTRO #엠카운트다운 EP.841 | Mnet 240502 방송",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-49",
+    "video_url": "https://www.youtube.com/watch?v=yNpckLxJmrc",
+    "thumbnail_url": "https://i.ytimg.com/vi/yNpckLxJmrc/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-49.jpg",
+    "publisher": "Mnet K-POP",
+    "original_title": "'최초 공개/4K' 세븐틴 (SEVENTEEN) - My Life #엠카운트다운 EP.795 | Mnet 230504 방송",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-50",
+    "video_url": "https://www.youtube.com/watch?v=HCaUTfs5hlQ",
+    "thumbnail_url": "https://i.ytimg.com/vi/HCaUTfs5hlQ/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-50.jpg",
+    "publisher": "M2",
+    "original_title": "[최초공개] TWS(투어스) - 내가 S면 넌 나의 N이 되어줘(If I’m S, Can You Be My N?) | TWS COMEBACK SHOW | Mnet 240624 방송",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-51",
+    "video_url": "https://www.youtube.com/watch?v=bc_f6mawoYw",
+    "thumbnail_url": "https://i.ytimg.com/vi/bc_f6mawoYw/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-51.jpg",
+    "publisher": "M2",
+    "original_title": "[최초공개] TWS(투어스) - unplugged boy (4K) | TWS DEBUT SHOW | Mnet 240122 방송",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-52",
+    "video_url": "https://www.youtube.com/watch?v=WWAo-0vrBbM",
+    "thumbnail_url": "https://i.ytimg.com/vi/WWAo-0vrBbM/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-52.jpg",
+    "publisher": "M2",
+    "original_title": "[최초공개] TWS(투어스) - Oh Mymy : 7s (4K) | TWS DEBUT SHOW | Mnet 240122 방송",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-53",
+    "video_url": "https://www.youtube.com/watch?v=phuxfNcDl4E",
+    "thumbnail_url": "https://i.ytimg.com/vi/phuxfNcDl4E/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-53.jpg",
+    "publisher": "M2",
+    "original_title": "[최초공개] TWS(투어스) - Double Take (4K) | TWS COMEBACK SHOW | Mnet 240624 방송",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-54",
+    "video_url": "https://www.youtube.com/watch?v=i3SHAhNu9g0",
+    "thumbnail_url": "https://i.ytimg.com/vi/i3SHAhNu9g0/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-54.jpg",
+    "publisher": "M2",
+    "original_title": "[최초공개] TWS(투어스) - BFF (4K) | TWS DEBUT SHOW | Mnet 240122 방송",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-55",
+    "video_url": "https://www.youtube.com/watch?v=8lsdvjB2ACs",
+    "thumbnail_url": "https://i.ytimg.com/vi/8lsdvjB2ACs/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-55.jpg",
+    "publisher": "M2",
+    "original_title": "TWS(투어스) - 예쁘다(Pretty U) (원곡: 세븐틴(SEVENTEEN)) | TWS COMEBACK SHOW | Mnet 240624 방송",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-56",
+    "video_url": "https://www.youtube.com/watch?v=vp8BiiNQ8co",
+    "thumbnail_url": "https://i.ytimg.com/vi/vp8BiiNQ8co/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-56.jpg",
+    "publisher": "KBS WORLD TV",
+    "original_title": "Sugar Rush Ride - TOMORROW X TOGETHER トゥモローバイトゥギャザー [Music Bank] | KBS WORLD TV 230127",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-57",
+    "video_url": "https://www.youtube.com/watch?v=7PYn4KRq3gs",
+    "thumbnail_url": "https://i.ytimg.com/vi/7PYn4KRq3gs/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-57.jpg",
+    "publisher": "KBS WORLD TV",
+    "original_title": "Deja Vu - TXT (투바투) [Music Bank] | KBS WORLD TV 240405",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-58",
+    "video_url": "https://www.youtube.com/watch?v=J1nBrd_CHYU",
+    "thumbnail_url": "https://i.ytimg.com/vi/J1nBrd_CHYU/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-58.jpg",
+    "publisher": "KBS WORLD TV",
+    "original_title": "Devil by the Window - TOMORROW X TOGETHER トゥモローバイトゥギャザー [Music Bank] | KBS WORLD TV 230127",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-59",
+    "video_url": "https://www.youtube.com/watch?v=8Cq7wjQ-g8M",
+    "thumbnail_url": "https://i.ytimg.com/vi/8Cq7wjQ-g8M/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-59.jpg",
+    "publisher": "KBS WORLD TV",
+    "original_title": "TOMORROW X TOGETHER(トゥモローバイトゥギャザー) - Good Boy Gone Bad (Music Bank) | KBS WORLD TV 220513",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-60",
+    "video_url": "https://www.youtube.com/watch?v=uFmbL_EwyBg",
+    "thumbnail_url": "https://i.ytimg.com/vi/uFmbL_EwyBg/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-60.jpg",
+    "publisher": "KBS WORLD TV",
+    "original_title": "Over The Moon - TXT トゥモローバイトゥギャザー 투바투 [Music Bank] | KBS WORLD TV 241108",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-61",
+    "video_url": "https://www.youtube.com/watch?v=bUSCwPTfrFA",
+    "thumbnail_url": "https://i.ytimg.com/vi/bUSCwPTfrFA/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-61.jpg",
+    "publisher": "KBS Kpop",
+    "original_title": "Chasing That Feeling - 투모로우바이투게더 [뮤직뱅크/Music Bank] | KBS 231013 방송",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-62",
+    "video_url": "https://www.youtube.com/watch?v=GYa1RcgVgY4",
+    "thumbnail_url": "https://i.ytimg.com/vi/GYa1RcgVgY4/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-62.jpg",
+    "publisher": "KBS WORLD TV",
+    "original_title": "TOMORROW X TOGETHER - Blue Hour(Dance Break Ver.) (Music Bank) | KBS WORLD TV 201030",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-63",
+    "video_url": "https://www.youtube.com/watch?v=I06Gb4BWLjo",
+    "thumbnail_url": "https://i.ytimg.com/vi/I06Gb4BWLjo/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-63.jpg",
+    "publisher": "KBS WORLD TV",
+    "original_title": "TXT (투모로우바이투게더) - Cat & Dog + 어느날 머리에서 뿔이 자랐다 (CROWN) [Music Bank / 2019.06.28]",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-64",
+    "video_url": "https://www.youtube.com/watch?v=uzk9NwAH1ks",
+    "thumbnail_url": "https://i.ytimg.com/vi/uzk9NwAH1ks/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-64.jpg",
+    "publisher": "KBS WORLD TV",
+    "original_title": "ENHYPEN - Given-Taken (Music Bank) | KBS WORLD TV 201204",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-65",
+    "video_url": "https://www.youtube.com/watch?v=KXOJM-Q2fzE",
+    "thumbnail_url": "https://i.ytimg.com/vi/KXOJM-Q2fzE/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-65.jpg",
+    "publisher": "KBS WORLD TV",
+    "original_title": "ENHYPEN(엔하이픈 エンハイプン) - Drunk-Dazed (Music Bank) | KBS WORLD TV 210430",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-66",
+    "video_url": "https://www.youtube.com/watch?v=J0qnU2Zwqb4",
+    "thumbnail_url": "https://i.ytimg.com/vi/J0qnU2Zwqb4/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-66.jpg",
+    "publisher": "KBS WORLD TV",
+    "original_title": "ENHYPEN(엔하이픈 エンハイプン) - FEVER (Music Bank) | KBS WORLD TV 210528",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-67",
+    "video_url": "https://www.youtube.com/watch?v=LcVkZUa-Yzs",
+    "thumbnail_url": "https://i.ytimg.com/vi/LcVkZUa-Yzs/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-67.jpg",
+    "publisher": "KBS WORLD TV",
+    "original_title": "ENHYPEN(엔하이픈 エンハイプン) - Tamed-Dashed (Music Bank) | KBS WORLD TV 211015",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-68",
+    "video_url": "https://www.youtube.com/watch?v=yffdivmFZqw",
+    "thumbnail_url": "https://i.ytimg.com/vi/yffdivmFZqw/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-68.jpg",
+    "publisher": "KBS WORLD TV",
+    "original_title": "ENHYPEN(엔하이픈 エンハイプン) - Blessed-Cursed (Music Bank) | KBS WORLD TV 220121",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-69",
+    "video_url": "https://www.youtube.com/watch?v=pg_G7WztJvQ",
+    "thumbnail_url": "https://i.ytimg.com/vi/pg_G7WztJvQ/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-69.jpg",
+    "publisher": "KBS WORLD TV",
+    "original_title": "Future Perfect (Pass the MIC) - ENHYPEN [Music Bank] | KBS WORLD TV 220708",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-70",
+    "video_url": "https://www.youtube.com/watch?v=o3FLY3YeKbc",
+    "thumbnail_url": "https://i.ytimg.com/vi/o3FLY3YeKbc/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-70.jpg",
+    "publisher": "KBS WORLD TV",
+    "original_title": "Bite Me - ENHYPEN エンハイプン [Music Bank] | KBS WORLD TV 230526",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-71",
+    "video_url": "https://www.youtube.com/watch?v=sEGetUQuqTU",
+    "thumbnail_url": "https://i.ytimg.com/vi/sEGetUQuqTU/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-71.jpg",
+    "publisher": "KBS WORLD TV",
+    "original_title": "Sweet Venom - ENHYPEN エンハイプン [Music Bank] | KBS WORLD TV 231201",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-72",
+    "video_url": "https://www.youtube.com/watch?v=dz9bieeSVRw",
+    "thumbnail_url": "https://i.ytimg.com/vi/dz9bieeSVRw/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-72.jpg",
+    "publisher": "KBS WORLD TV",
+    "original_title": "aespa - Black Mamba (Music Bank) | KBS WORLD TV 201127",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-73",
+    "video_url": "https://www.youtube.com/watch?v=DJKrpeQootU",
+    "thumbnail_url": "https://i.ytimg.com/vi/DJKrpeQootU/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-73.jpg",
+    "publisher": "KBS WORLD TV",
+    "original_title": "aespa エスパ - Next Level (Music Bank) | KBS WORLD TV 210528",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-74",
+    "video_url": "https://www.youtube.com/watch?v=Lm-WHm72S7U",
+    "thumbnail_url": "https://i.ytimg.com/vi/Lm-WHm72S7U/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-74.jpg",
+    "publisher": "KBS WORLD TV",
+    "original_title": "aespa(에스파 エスパ) - Savage (Music Bank) | KBS WORLD TV 211022",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-75",
+    "video_url": "https://www.youtube.com/watch?v=FZKTX5HgmDY",
+    "thumbnail_url": "https://i.ytimg.com/vi/FZKTX5HgmDY/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-75.jpg",
+    "publisher": "KBS WORLD TV",
+    "original_title": "Spicy - aespa [Music Bank] | KBS WORLD TV 230512",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-76",
+    "video_url": "https://www.youtube.com/watch?v=zBSeJSWVH1Y",
+    "thumbnail_url": "https://i.ytimg.com/vi/zBSeJSWVH1Y/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-76.jpg",
+    "publisher": "KBS WORLD TV",
+    "original_title": "Drama - aespa エスパ [Music Bank] | KBS WORLD TV 231110",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-77",
+    "video_url": "https://www.youtube.com/watch?v=bepqfR-pxY0",
+    "thumbnail_url": "https://i.ytimg.com/vi/bepqfR-pxY0/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-77.jpg",
+    "publisher": "KBS WORLD TV",
+    "original_title": "Supernova - aespa エスパ 에스파 [Music Bank] | KBS WORLD TV 240517",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-78",
+    "video_url": "https://www.youtube.com/watch?v=B630886P_yE",
+    "thumbnail_url": "https://i.ytimg.com/vi/B630886P_yE/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-78.jpg",
+    "publisher": "KBS WORLD TV",
+    "original_title": "Armageddon - aespa エスパ 에스파 [Music Bank] | KBS WORLD TV 240531",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-79",
+    "video_url": "https://www.youtube.com/watch?v=HtzGtXvtkDQ",
+    "thumbnail_url": "https://i.ytimg.com/vi/HtzGtXvtkDQ/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-79.jpg",
+    "publisher": "KBS Kpop",
+    "original_title": "Whiplash - aespa [뮤직뱅크/Music Bank] | KBS 241101 방송",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-80",
+    "video_url": "https://www.youtube.com/watch?v=SpvbDnkDYME",
+    "thumbnail_url": "https://i.ytimg.com/vi/SpvbDnkDYME/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-80.jpg",
+    "publisher": "KBS WORLD TV",
+    "original_title": "IVE (아이브 アイヴ) - ELEVEN(일레븐) (Music Bank) | KBS WORLD TV 211203",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-81",
+    "video_url": "https://www.youtube.com/watch?v=W0zrcIa36Vk",
+    "thumbnail_url": "https://i.ytimg.com/vi/W0zrcIa36Vk/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-81.jpg",
+    "publisher": "KBS WORLD TV",
+    "original_title": "IVE (아이브 アイヴ) -  LOVE DIVE (러브다이브) (Music Bank) | KBS WORLD TV 220422",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-82",
+    "video_url": "https://www.youtube.com/watch?v=KhWnPda7ecA",
+    "thumbnail_url": "https://i.ytimg.com/vi/KhWnPda7ecA/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-82.jpg",
+    "publisher": "KBS WORLD TV",
+    "original_title": "IVE (아이브 アイヴ) - After LIKE [Music Bank] | KBS WORLD TV 220902",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-83",
+    "video_url": "https://www.youtube.com/watch?v=QIIKpiNKd9E",
+    "thumbnail_url": "https://i.ytimg.com/vi/QIIKpiNKd9E/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-83.jpg",
+    "publisher": "KBS WORLD TV",
+    "original_title": "IVE (아이브 アイヴ) - I AM (아이엠) [Music Bank] | KBS WORLD TV 230421",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-84",
+    "video_url": "https://www.youtube.com/watch?v=jeukvabu44Y",
+    "thumbnail_url": "https://i.ytimg.com/vi/jeukvabu44Y/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-84.jpg",
+    "publisher": "KBS WORLD TV",
+    "original_title": "IVE (아이브 アイヴ) - HEYA [Music Bank] | KBS WORLD TV 240503",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  },
+  {
+    "stage_id": "stage-85",
+    "video_url": "https://www.youtube.com/watch?v=JtENf-ssZ3g",
+    "thumbnail_url": "https://i.ytimg.com/vi/JtENf-ssZ3g/hqdefault.jpg",
+    "local_file": "assets/stage-covers/stage-85.jpg",
+    "publisher": "KBS WORLD TV",
+    "original_title": "IVE (아이브 アイヴ) - Baddie [Music Bank] | KBS WORLD TV 231013",
+    "retrieved_at": "2026-11-22",
+    "image_type": "jpeg"
+  }
+]
