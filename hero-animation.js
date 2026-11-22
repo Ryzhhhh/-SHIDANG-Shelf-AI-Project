@@ -6,7 +6,9 @@
  const packCount=Math.min(18,covers.length);
  const sentence='The clip ends. The feeling stays.';
  const reduce=matchMedia('(prefers-reduced-motion: reduce)');
- const timeline={typeStart:350,charMs:65,typeHold:650,textFade:380,packStart:3450,packDuration:1100,scatterStart:4700,scatterDuration:2000,end:6900};
+ const typeStepMs=80;
+ const typingDelay=sentence.length*(typeStepMs-65);
+ const timeline={typeStart:350,charMs:typeStepMs,typeHold:650,textFade:380,packStart:3450+typingDelay,packDuration:1100,scatterStart:4700+typingDelay,scatterDuration:2000,end:6900+typingDelay};
  const clamp=(x,a=0,b=1)=>Math.max(a,Math.min(b,x)),between=(t,a,b)=>clamp((t-a)/(b-a)),ease=t=>t===1?1:1-Math.pow(2,-10*t),smooth=t=>t*t*(3-2*t),mix=(a,b,t)=>a+(b-a)*t;
  let start=performance.now(),finished=null,raf=0,lastTime=0,pointer=[0,0],follow=[0,0],layoutData=[],viewport={w:0,h:0,spanX:0,spanY:0};
  let panOffset=[0,0],pointerAnchor=[innerWidth/2,innerHeight/2],drag=null,suppressClick=false;
